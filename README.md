@@ -1,4 +1,4 @@
-# Hello GitHub Actions CI + Package Registry + Maven
+# Hello GitHub Actions CI + Package Registry + Maven + rogger
 
 [![Banner](https://repository-images.githubusercontent.com/215815435/d9c17a72-530a-4566-9b91-9ec9f4b6dd59)](https://github.com/TobseF/HelloMaven.git)
 
