@@ -12,8 +12,8 @@
             <repositories>
                 <repository>
                     <id>github</id>
-                    <name>GitHub TobseF Apache Maven Packages</name>
-                    <url>https://maven.pkg.github.com/TobseF</url>
+                    <name>GitHub Roggerbogota13 Apache Maven Packages</name>
+                    <url>https://maven.pkg.github.com/Roggerbogota13</url>
                 </repository>
             </repositories>
         </profile>
@@ -22,8 +22,8 @@
     <servers>
         <server>
             <id>github</id>
-            <username>${env.GITHUB_USERNAME}</username>
-            <password>${env.GITHUB_TOKEN}</password>
+            <username>${env.USERNAME}</username>
+            <password>${env.TOKEN}</password>
         </server>
     </servers>
 </settings>
